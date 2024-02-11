@@ -8,6 +8,10 @@ export const revalidate = 10
 export const metadata: Metadata = {
   title: "Picxo image bank",
   description: "Get access to high quality images at your fingertips",
+  // icons:{
+  //   icon:"https://example.com/icon.png",
+  //   apple:"https://example.com/apple-icon.png"
+  // }
 };
 
 export default function RootLayout({
